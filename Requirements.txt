@@ -1,0 +1,3 @@
+Requirements:
+
+To run `ExpenseTracker.jar`, ensure that Java is properly installed and configured on your system. Without a valid Java environment, you may encounter issues during execution.
